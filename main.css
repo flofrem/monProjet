@@ -20,13 +20,14 @@ h2 {
   color: #ffffff;
 	padding: 250px 0;
 	margin: 30px;
-  background-image:url("https://cdn.pixabay.com/photo/2015/11/21/15/23/houses-of-parliament-1055056_960_720.jpg");
+  background-image:url("https://cdn.pixabay.com/photo/2019/04/18/15/33/easter-4137259_960_720.jpg");
 	background-size: cover;
 }
 
 
 p {
 font-size: 2rem;
+	font-style: italic;
 }
 
 .hero a {
