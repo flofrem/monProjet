@@ -20,7 +20,7 @@ h2 {
   color: #ffffff;
 	padding: 250px 0;
 	margin: 30px;
-  background-image:url("https://cdn.pixabay.com/photo/2019/04/18/15/33/easter-4137259_960_720.jpg");
+  background-image:url="https://cdn.pixabay.com/photo/2019/04/18/15/33/easter-4137259_960_720.jpg";
 	background-size: cover;
 }
 
