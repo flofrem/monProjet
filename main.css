@@ -7,11 +7,11 @@ body {
 
 h1 {font-family: Palatino,'Palatino Linotype', serif;
 	font-size: 64px;
-  color: rgb(46,105,163);
+  color: black;
 }
 
 h2 {
-	font-size: 56px;
+	font-size: 74px;
 	color: rgb(46,105,163);
 }
 
@@ -30,7 +30,7 @@ font-size: 2rem;
 }
 
 .hero a {
-	color: #00FFAA;
+	color: white;
 	font-size: 2.25em;
 	text-decoration: none;
 }
