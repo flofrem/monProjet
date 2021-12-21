@@ -7,7 +7,8 @@ body {
 
 h1 {font-family: times new roman , sans-serif;
 	font-size: 48px;
-  color: red;
+  	color: red;
+	background-color: pink;
 }
 
 h2 {
@@ -17,7 +18,7 @@ h2 {
 
 .hero {
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  color: #ffffff;
+  color: red;
 	padding: 250px 0;
 	margin: 30px;
 	 background-image:url("https://img-31.ccm2.net/hHAujZBjMW6BuzzIfbkoAqf1IK0=/1240x/smart/887397adf3f6470db368911dfae7d901/ccmcms-hugo/10602020.jpg");
