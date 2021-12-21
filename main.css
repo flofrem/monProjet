@@ -1,19 +1,19 @@
 body {
 	height: 100%;
 	margin: 80px;
-	text-align: left;
+	text-align: center;
 	width: 100%;
 }
 
 header {font-family:'Trebuchet MS', Helvetica, sans-serif;
 	text-align:center;
-	font-size: 48px;
+	font-size: 38px;
   	color: red;
 	background-color: pink;
 }
 
 h2 {
-	font-size: 48px;
+	font-size: 38px;
 	color: #6d071a;
 }
 
