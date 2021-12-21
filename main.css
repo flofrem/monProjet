@@ -5,7 +5,7 @@ body {
 	width: 100%;
 }
 
-h1 {font-family: times new roman , sans-serif;
+h1 {font-family:'Trebuchet MS', Helvetica, sans-serif;
 	font-size: 48px;
   	color: red;
 	background-color: pink;
@@ -30,11 +30,12 @@ font-size: 2rem;
 }
 
 .hero a {
-	color: white;
+	color: red;
 	font-size: 2.25em;
 	text-decoration: none;
 }
 #footer {
   font-size: 1.75rem;
+	color: red; 
 }
 
