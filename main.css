@@ -5,9 +5,10 @@ body {
 	width: 100%;
 }
 
-h1 {font-family:'Trebuchet MS', Helvetica, sans-serif;
+header {font-family:'Trebuchet MS', Helvetica, sans-serif;
+	text-align:center;
 	font-size: 48px;
-  	color: #6d071a;
+  	color: red;
 	background-color: pink;
 }
 
