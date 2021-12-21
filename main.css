@@ -36,6 +36,7 @@ font-size: 2rem;
 }
 #footer {
   font-size: 1.75rem;
+	text-align:center;
 	color: red; 
 }
 
