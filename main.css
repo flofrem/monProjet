@@ -16,7 +16,7 @@ header {font-family:'Trebuchet MS', Helvetica, sans-serif;
 h2 {
 	font-size: 38px;
 	color: #228B22;
-	font-style: italic;
+	font-style: bold, italic;
 }
 
 .hero {
@@ -28,12 +28,12 @@ background-size: cover;
 
 p {
 font-size: 2rem;
-	font-style: italic;
+	font-style: bold, italic;
 }
 
 .hero a {
 	color: #228B22;
-	font-style: italic;
+	font-style:bold, italic;
 	font-size: 2.25em;
 	text-decoration: none;
 }
